@@ -17,12 +17,17 @@ The next logical step was to decide how to transition from this one static bent 
 
 So, I thought it might be a good idea to revisit this idea with a fresh new perspective.
 
-There I was, sitting in the bike shop where I work and thinking about how to resolve the issues of waste heat, inconsistent heating of the nylon with the tungsten wire wrapped around it, or similarly silver-coated nylon fiber, and, of course, the safety aspect of having an exposed resistance wire touch external surfaces like skin, plastic, fabric etc. As I was considering different options as to how to deal with these issues, I suddenly thought of a common product we deal with at the shop - bike tires! Bike tires have a metal bead lining embedded into the rubber on each side of the tire to add additional structural support while pressed against the rim under pressure. That inspired me to think about fusing the resistance wire within the core of the nylon fibre. A **coaxial nylon TCA**!
+There I was, sitting in the bike shop where I work and thinking about how to resolve the issues of waste heat, inconsistent heating of the nylon with the nichrome wire wrapped around it, or similarly silver-coated nylon fiber, and, of course, the safety aspect of having an exposed resistance wire touch external surfaces like skin, plastic, fabric etc. As I was considering different options as to how to deal with these issues, I suddenly thought of a common product we deal with at the shop - bike tires! Bike tires have a metal bead lining embedded into the rubber on each side of the tire to add additional structural support while pressed against the rim under pressure. That inspired me to think about fusing the resistance wire within the core of the nylon fibre. A **coaxial nylon TCA**!
 
-This was quite the rabbit hole as I started investigating how the tires are made and how the beads are fused into the rubber. Turns out they're folded into the rubber and then the tire gets squished and stretched - it wasn't a directly translatable manufacturing process to such a tiny diameter fibre. However, it had gotten the ball rolling.
+This was quite the rabbit hole as I started investigating how the tires are made and how the beads are fused into the rubber. Turns out they're folded into the rubber and then the tire gets squished and stretched - it wasn't a directly translatable manufacturing process to such a tiny diameter fibre. However, it got the (idea) ball rolling.
 
 ### Make coaxial nylon TCAs cheap and accessible
 Of course, with almost no budget, I wouldn't get far without thinking of how I could repurpose something affordable and accessible for a regular person on a budget. After all, these coaxial TCAs (CXTCAs) should be possible to make in a home lab setting. 
+
+### Rough Plan
+I plan on tweaking a 3D printer extruder a little bit by inserting a tiny syringe needle in the center of an extruder nozzle and feed a nichrome wire through it, with melted nylon flowing/extruding from around it throught the nozzle, pulling the wire with it and embedding it in the core of the newly extruded nylon fiber. 
+
+### Mechanical/thermal property implications of remelting and drawing of nylon fiber
 
 ### Twisting setup
 [Nylon-based twisted coil actuator twisting setup - Youtube](https://www.youtube.com/watch?v=FogEhFSXHNA)
